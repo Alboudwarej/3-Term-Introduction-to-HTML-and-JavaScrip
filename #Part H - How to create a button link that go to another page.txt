@@ -1,0 +1,4 @@
+<form action="https://www.google.ca">
+   <button type="submit">go to google!</button>
+   <input type="submit">
+</form>

@@ -1,0 +1,5 @@
+HTML Formatter
+Click https://htmlformatter.com/ link to open resource.
+
+HTML Validator
+Click http://validator.w3.org/#validate-by-upload link to open resource.

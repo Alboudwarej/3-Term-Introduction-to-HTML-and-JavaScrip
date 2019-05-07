@@ -1,0 +1,19 @@
+HOW TO HAVE ICON IMG FREE 
+
+//1STEP
+
+Go to this web site => https://pixabay.com/en/
+
+//2STEP
+Create your account for u to have more quality IMG!
+
+//FINAL STEP 
+
+"Save your IMG in your IMG files"
+
+ex
+-FOLDER
+   -FAVICON   (to save all favicon that u r working on)
+   -HTML      (to save all HTML files)
+   -IMG       (to save all IMG that u r working on  < ------ HERE)
+		

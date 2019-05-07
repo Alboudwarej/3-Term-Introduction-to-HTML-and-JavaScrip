@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<!---THIS IS THE => FAVICON OF IMG-->
+	<link rel="apple-touch-icon" sizes="57x57" href="../favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="../favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="../favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="../favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="../favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="../favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="../favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="../favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="../favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="../favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="../favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="../favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../favicon/favicon-16x16.png">
+<link rel="manifest" href="../favicon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+	<title></title>
+</head>
+<body>
+	<!---THIS IS THE FIRST => QUESTIONS?!-->
+	  <h1>Questions of Weapons?</h1>
+<a href="#w1"><p >what`s the best primary of csgo?</p></a>
+<br>
+<a href="#w2"><p >what`s the best secondary of csgo that has 70% of damage?</p></a>
+<br>
+<!---THIS IS THE FIRST => ANSWERS!-->
+<h1>Answers of Weapon`s!</h1>
+<p id="w1">AWP</p>
+<p id="w2">EAGLE</p>
+
+<!---THIS IS THE SECOND => QUESTION?!-->
+     <h2>Questions of Granade`s?</h2>
+<a href="#g1"><p >what`s the best granade to rush</p></a>
+<br>
+<a href="#g2"><p >what`s the best granade that has a lot of damage? </p></a>
+<br>
+<!---THIS IS THE => ANSWERS!-->
+<h2>Answers of Granade`s!</h2>
+<p id="g1">FLASH</p>
+<p id="g2">HE</p>
+
+</body>
+</html>

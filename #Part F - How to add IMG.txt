@@ -1,0 +1,8 @@
+<body>
+
+<a href="https://pixabay.com/en/"> Click this link </a>
+<h2> A picture from Vancouver island </h2>
+<img src="berries.jpg" 
+alt="berry photo" style="width:64px;height:42px;border:0; ">
+
+</body>

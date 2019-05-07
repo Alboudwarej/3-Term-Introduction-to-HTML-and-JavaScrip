@@ -1,0 +1,103 @@
+//How to create a Favicon on tab of search
+
+//1STEP u need to create your structure html
+
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
+</body>
+</html>
+
+
+
+___________________________________________________________________________________________
+//2STEP 
+does u need to have your (IMG.png standard) and go to generator of favicon! 
+after that convert your IMG.png to icon and will be avaible for u to dowload and will appear
+faviconcode!
+
+
+
+
+
+___________________________________________________________________________________________
+//3STEP
+dowload the icon put on your favicon file the IMG that u have converted
+
+
+
+
+
+___________________________________________________________________________________________
+//4STEP
+copy the five icon linkcode and go to your sublime
+
+
+
+
+
+___________________________________________________________________________________________
+//5STEP
+does u need to show where is the icon to your console
+u need to put ../favicon/ after href="
+ex:
+href="../favicon/apple-icon-57x57.png">
+
+all:
+<link rel="apple-touch-icon" sizes="57x57" href="../favicon/apple-icon-57x57.png">
+
+
+
+
+
+___________________________________________________________________________________________
+
+//6STEP 
+but for u to do it more faster not one by one u need 
+to press ctrl F and type href=" 
+and after that select find all
+and it will make your life more easy
+and then just type 
+../favicon/ 
+
+
+
+
+___________________________________________________________________________________________
+
+//FINAL STEP STRUCTURE READY OF ICON TAB
+
+
+<!--FAVICON IMG ICON-->
+
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="apple-touch-icon" sizes="57x57" href="../favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="../favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="../favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="../favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="../favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="../favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="../favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="../favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="../favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="../favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="../favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="../favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../favicon/favicon-16x16.png">
+<link rel="manifest" href="../favicon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+	<title></title>
+</head>
+<body>
+
+</body>
+</html>
+
+

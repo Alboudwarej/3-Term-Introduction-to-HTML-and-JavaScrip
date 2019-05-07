@@ -1,0 +1,35 @@
+//HOW TO SHOW YOUR "WEBSITE READY" WITH URL  TO ACESS IN OTHER COMPUTERS
+
+//1STEP
+Go to your GITHUB AND CREATE A NEW REPOSITORY ex test1site
+(don`t need dot=> .html on your repository name just on the next step)
+
+//2STEP
+Create a new file inside your repository with your website code inside of file!
+
+ex: test1.html (the name of your file that has your code inside you need to have dot=> . html on your file name
+for you to access then)
+
+//3STEP
+
+After that you need to go to settings inside your file that u have your code!
+
+//4STEP 
+
+Scroll down and you need to find GitHub Pages and there on "source"
+"Swap none to master branch"
+
+//5STEP 
+
+After that "refresh your page F5" will appear your link in the green tab 
+almost ready what you need to do just copy and past on your browser!
+
+//FINAL STEP 
+
+paste your link into the search tab and add in the end 
+"the name of your file that you created on your file
+
+ex: https://eduusz.github.io/htmlTest/ --------> and add your name of the file that has your code!
+ex:test1.html
+
+url ready: "https://eduusz.github.io/htmlTest/test1.html"

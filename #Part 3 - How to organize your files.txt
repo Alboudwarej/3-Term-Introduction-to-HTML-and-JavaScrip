@@ -1,0 +1,10 @@
+//HOW TO ORGANIZE YOUR PROJECTS
+
+I need to create folders to store in order and not get confused 
+To store the files and not get lost in the middle of the project
+
+-FOLDER
+   -FAVICON   (to save all favicon that u r working on)
+   -HTML      (to save all HTML files)
+     -index   (standard file inside of html file)
+   -IMG       (to save all IMG that u r working on)

@@ -1,0 +1,130 @@
+#Part 1 - Create a HTML5 Structure!     
+___________________________________________________________________________________________             
+
+"How to open your struture HTML5 more faster"
+
+1step: first u have to type "html" and then save on your browser but the name of the file
+need to have dot==> ".html" to appear when u go to type to appear your structure
+
+2step: just type "html" on the console and it will appear the console ready!
+3step: this is the structure simple ready to do more faster 
+
+html>
+<head>
+	<title></title>
+</head>                               (STRUCTURE SIMPLE)
+<body>                                
+
+</body>
+</html>
+___________________________________________________________________________________________
+
+
+"THIS STEP IS ONE OF THE MOST IMORTANTE U NEED TO OPEN AND CLOSE YOURS TAGS CONSTANT"
+
+< > 
+open the tag 
+
+</>
+close the tag 
+
+___________________________________________________________________________________________
+
+"INFOMATIONS ABOUT THE TAGS"
+
+<!DOCTYPE html> 
+declaration defines the document to be HTML5)
+
+<html> 
+element is the root element of an HTML page
+
+<head> 
+element contains meta information about the document
+
+</body> 
+element contains the visible page content
+
+<title>
+element specifies a title for the document
+
+
+<h1> 
+element defines a large heading
+    <h1>This is heading 1</h1>
+    <h2>This is heading 2</h2>
+    <h3>This is heading 3</h3>
+    <h4>This is heading 4</h4>
+    <h5>This is heading 5</h5>
+    <h6>This is heading 6</h6>
+
+<p> 
+element defines a paragraph
+
+<!--here--> this is for me to create a coment
+
+<p style="color:blue;"> here is your word </p>
+
+<br> 
+means break
+
+<b> 
+bold text
+
+<strong>
+important text
+
+<i>
+italic text
+
+<em>
+emphasized text 
+
+<mark>
+marked text
+
+<small> 
+small text
+
+<del>
+deleted text
+
+<ins>
+insert text
+
+<sub> 
+subscript text
+
+<sup> 
+superscript text
+
+<p>   </p> 
+
+The first tag in a pair is the start tag, the second tag is the end tag
+The end tag is written like the start tag, but with a forward slash inserted before the tag name
+Tip: The start tag is also called the opening tag, and the end tag the closing tag.
+
+<!--here--> this is for me to create a coment
+
+<p style="color:blue;"> here is your word </p>
+
+___________________________________________________________________________________________
+TO OPEN TAGS MORE FASTER 
+
+<p>   </p> 
+(to open these tags more fast just "type P and TAB")
+
+<b>   </b>
+(to open these tags more fast just "type B and TAB")
+
+
+
+
+
+
+
+
+
+
+
+
+© 2019 GitHub, Inc.

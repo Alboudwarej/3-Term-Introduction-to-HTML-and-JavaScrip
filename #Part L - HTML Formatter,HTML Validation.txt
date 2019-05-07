@@ -1,0 +1,18 @@
+(HTML Formatter)
+Free online tool to format an ugly HTML code, making it readable and pretty, with the proper indentation
+
+https://htmlformatter.com/
+
+
+
+(Markup Validation Service)
+This validator checks the markup validity of Web documents in HTML, XHTML, SMIL, MathML, etc.
+
+https://validator.w3.org/#validate_by_input
+
+
+
+(W3Schools is optimized for learning)
+, testing, and training.Examples might be simplified to improve reading and basic understanding. Tutorials, references, and
+
+https://www.w3schools.com/

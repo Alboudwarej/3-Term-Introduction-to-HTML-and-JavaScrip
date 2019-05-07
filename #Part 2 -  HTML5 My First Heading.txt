@@ -1,0 +1,16 @@
+#Part 2 HTML5 My First Heading
+
+(HTML5 My First Heading)
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>title of the document</title>
+</head>
+<body>
+	<h1>My First Heading</h1>
+	<p>My first paragraph.</p>
+
+</body>
+</html>

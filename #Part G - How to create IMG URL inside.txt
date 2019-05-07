@@ -1,0 +1,5 @@
+<a href="https://pixabay.com/en/">
+<img src="berries.jpg"
+alt="berry photo" style="width:64px;height:42px;">
+</a>
+

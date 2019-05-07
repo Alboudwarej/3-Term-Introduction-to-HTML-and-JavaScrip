@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>link</title>
+<body>
+<p> HTML link below </p>
+<a href="https://pixabay.com/en/"> Click this link </a>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>link</title>
+<body>
+<a href="https://pixabay.com/en/" title="free pictures!" 
+ Target="_blank"> Click this link </a>
+
+</body>
+</html>
